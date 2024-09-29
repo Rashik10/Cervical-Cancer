@@ -1,0 +1,5 @@
+https://screening.iarc.fr/cervicalimagebank.php
+
+
+choose IARC Colposcopy Image Bank (200 cases 913 images)
+download the data in zip and then extract it to this folder (/data).
